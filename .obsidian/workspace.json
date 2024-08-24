@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "690d30a0d66dc3b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ceb85a5ae4c1dbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b4e1d75a7218c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Список спрайтов персонажей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d75b8f66bb963079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e75d0bb4553a01f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b62364b79e2d3e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b4ad548adc80a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f24e0ad3c63ad95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb5f8dfa46f7e880",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb2eb0905ed8c988",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "239ffbc3db523427",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfeff9a32e404075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c17affee8eb12ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Список спрайтов персонажей.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06bf052f32a09fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Список спрайтов персонажей.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41093e4e9bb50786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c137570f22d6a03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Список спрайтов персонажей.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6f24e0ad3c63ad95",
+  "lastOpenFiles": [
+    "README.md",
+    "Толпа бесов.md",
+    "Технические задачи.md",
+    "Список спрайтов персонажей.md",
+    "Список Артефактов.md",
+    "робоКоммунист.md",
+    "Питч.md",
+    "Локации.md",
+    "Демонолет.md",
+    "Демон Лапласа.md",
+    "Демократия.md",
+    "Боссы локаций.md",
+    "Без названия",
+    "Список спрайтов героев"
+  ]
+}
